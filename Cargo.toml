@@ -1,0 +1,8 @@
+[package]
+authors = ["SilverWingedSeraph <lfstindall@gmail.com>"]
+name = "rjulia-cmd"
+version = "0.1.0"
+[dependencies]
+argparse = "*"
+image = "*"
+num = "*"
